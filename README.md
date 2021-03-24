@@ -1,4 +1,4 @@
-# Meu primeiro front no  Flutter Web.
+# Meu primeiro front no  Flutter Web ; ).
 
 
 # [Demo](https://estudopolicial-moraesnicol.vercel.app/#/)
@@ -16,7 +16,7 @@ Esse projeto contém a maioria dos widgets  mais comuns no Flutter.
 
 
 
-<img src="https://github.com/GeekyAnts/flutter-web-admin-dashbaord/blob/master/images/heroAnimationGif.gif" width="500" height="300" />
+<img src="https://github.com/moraesnicol/estudo_policial_flutter_web_build/blob/master/assets/Estudo.policial.gif" width="500" height="300" />
 
 
 
