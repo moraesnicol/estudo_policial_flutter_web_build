@@ -1,17 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-Quer saber mais sobre o  Flutter Web?, check out the .
-
 <p align="center">
    <img src="https://i.pinimg.com/originals/c1/65/1f/c1651f598d212acdfe551f103548e495.png" alt="flutter" width="300"/>
 </p>
@@ -24,7 +12,7 @@ Quer saber mais sobre o  Flutter Web?, check out the .
 </p>
 
 <p align="center">
-  :heavy_check_mark: Send a card
+  :heavy_check_mark: Flutter Web
 </p>
 
 <hr />
@@ -51,7 +39,7 @@ My first front at Flutter Web
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/estudo_policial_flutter_web_build/blob/master/assets/Estudo.policial.gif" height="550px" width="500px">
+   <img src="https://github.com/moraesnicol/estudo_policial_flutter_web_build/blob/master/assets/Estudo.policial.gif" height="550px" width="300px">
 
 </div>
 
