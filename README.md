@@ -39,7 +39,7 @@ My first front at Flutter Web
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/estudo_policial_flutter_web_build/blob/master/assets/Estudo.policial.gif" height="550px" width="300px">
+   <img src="https://github.com/moraesnicol/estudo_policial_flutter_web_build/blob/master/assets/Estudo.policial.gif" >
 
 </div>
 
